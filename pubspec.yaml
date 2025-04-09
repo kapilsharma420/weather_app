@@ -40,7 +40,9 @@ dependencies:
   flutter_dotenv: ^5.1.0       # For managing API keys securely
   shared_preferences: ^2.2.2   # If you want to save the last searched city
   connectivity_plus: ^6.0.1    # To detect internet connection
-
+  geolocator: ^10.1.0
+  geocoding: ^2.1.0
+  
 
 dev_dependencies:
   flutter_test:
